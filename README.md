@@ -63,3 +63,5 @@ This project is perfect for anyone interested in IoT, robotics, and smart home i
 ## License
 This project is open-source under the **MIT License**. You are free to use, modify, and share it.  Update README to Arduino Smart Dustbin version
 Update README to Arduino Smart Dustbin version
+Update README to Arduino Smart Dustbin version
+Update README to Arduino Smart Dustbin version
