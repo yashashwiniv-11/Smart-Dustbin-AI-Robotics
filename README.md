@@ -65,3 +65,4 @@ This project is open-source under the **MIT License**. You are free to use, modi
 Update README to Arduino Smart Dustbin version
 Update README to Arduino Smart Dustbin version
 Update README to Arduino Smart Dustbin version
+Update README to Arduino Smart Dustbin version
