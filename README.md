@@ -1,4 +1,8 @@
 # Smart Waste Management System (AI Simulation)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange.svg)
 
 ##  Overview
 Smart Waste Management System is a Python-based simulation of an intelligent dustbin system.
