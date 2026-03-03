@@ -1,40 +1,65 @@
-# Smart Dustbin – AI & Robotics Project
+# Smart Waste Management System (AI Simulation)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange.svg)
 
-## Overview
-The Smart Dustbin is an intelligent waste management system...
+##  Overview
+Smart Waste Management System is a Python-based simulation of an intelligent dustbin system.
+
+The system detects waste type, monitors bin weight, and alerts when the bin reaches maximum capacity.
+
+This project demonstrates modular programming, system monitoring, and basic AI-inspired simulation logic.
+
+---
 
 ## Key Features
-- Automatic Lid Opening
-- AI-Based Waste Detection (Optional)
-- Full Bin Notifications (Optional)
-- Compact and Contactless
+- Waste Type Detection (Wet / Dry / Metal)
+- Real-Time Weight Monitoring
+- Automatic Full Bin Alert
+- Clean Modular Code Structure
+- Professional Terminal Output Display
 
-## Components Used
-- Arduino / ESP32 / Raspberry Pi
-- Ultrasonic Sensor or IR Sensor
-- Servo Motor
-- Buzzer (optional)
-- Jumper wires, breadboard, power supply
+---
+
+## Technologies Used
+- Python
+- Object-Oriented Programming (OOP)
+- Random Module (Simulation)
+- Time Module
+
+---
 
 ## Project Structure
-| File / Folder      | Description                          |
-|-------------------|--------------------------------------|
-| SmartDustbin.ino   | Main Arduino program controlling sensors and lid |
-| AI_Module.py       | Optional Python script for AI-based waste classification |
-| Schematics/        | Circuit diagrams and wiring instructions |
-| Screenshots/       | Images of the project in action |
-| README.md          | This file – project overview and instructions |
 
-## How to Use
-1. Assemble all the components according to the schematics.
-2. Upload `SmartDustbin.ino` to your Arduino or compatible board.
-3. Power on the device. The lid should open automatically when waste is detected.
-4. (Optional) Run the AI module if your project includes smart waste classification.
+| File / Folder | Description |
+|--------------|-------------|
+| src/main.py | Main program controller |
+| src/sensor.py | Simulates waste detection |
+| src/dustbin.py | Handles bin capacity logic |
+| src/utils.py | Displays formatted output |
+| assets/ | Stores screenshots |
+| README.md | Project documentation |
 
-## Optional Enhancements
-- SMS or email notifications when the bin is full
-- Integration with IoT platforms like Blynk or Thingspeak
-- Solar-powered version for eco-friendly operation
+---
 
-## License
-This project is open-source under the MIT License. You are free to use, modify, and share it.
+## How to Run
+
+1. Navigate to the `src` folder:
+   ```bash
+   cd src
+
+## System Output Screenshot
+
+![System Output](assets/output.png)
+
+---
+
+## Author
+
+Developed by V.Yashashwini 
+GitHub: https://github.com/yashashwiniv-11
+
+---
+
+If you like this project, give it a star!
