@@ -48,3 +48,7 @@ This project demonstrates modular programming, system monitoring, and basic AI-i
 1. Navigate to the `src` folder:
    ```bash
    cd src
+
+## System Output Screenshot
+
+![System Output](assets/output.png)
