@@ -14,3 +14,4 @@ class Dustbin:
             return "FULL"
         return "NOT FULL"# Force update commit
 # Force update commit
+# Confirm file is tracked
