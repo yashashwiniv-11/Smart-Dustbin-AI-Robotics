@@ -52,3 +52,14 @@ This project demonstrates modular programming, system monitoring, and basic AI-i
 ## System Output Screenshot
 
 ![System Output](assets/output.png)
+
+---
+
+## Author
+
+Developed by V.Yashashwini 
+GitHub: https://github.com/yashashwiniv-11
+
+---
+
+If you like this project, give it a star!
