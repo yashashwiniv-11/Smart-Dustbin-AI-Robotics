@@ -12,6 +12,4 @@ class Dustbin:
     def status(self):
         if self.is_full():
             return "FULL"
-        return "NOT FULL"# Force update commit
-# Force update commit
-# Confirm file is tracked
+        return "NOT FULL"

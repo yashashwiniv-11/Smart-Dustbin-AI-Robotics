@@ -22,5 +22,4 @@ while True:
         print("Please empty the dustbin before continuing operation.")
         break
 
-    time.sleep(2)# Force update commit
-# Force update commit
+    time.sleep(2)

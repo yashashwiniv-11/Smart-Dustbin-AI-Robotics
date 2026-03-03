@@ -62,4 +62,4 @@ GitHub: https://github.com/yashashwiniv-11
 
 ---
 
-If you like this project, give it a star!<!-- Force update for GitHub -->
+If you like this project, give it a star!

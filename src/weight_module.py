@@ -13,5 +13,4 @@ def check_weight():
         return weight, "FULL"
     else:
         print("Status: NOT FULL")
-        return weight, "NOT FULL"# Force update commit
-# Force update commit
+        return weight, "NOT FULL"

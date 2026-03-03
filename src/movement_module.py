@@ -3,5 +3,4 @@ def move_to_dump():
     print("Navigating along predefined LED path...")
     print("Reached Destination: Main Dump Station")
     print("Executing waste unloading into categorized compartments...")
-    print("Returning back to Source Point...")# Force update commit
-# Force update commit
+    print("Returning back to Source Point...")
